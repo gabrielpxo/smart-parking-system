@@ -38,5 +38,3 @@ Welcome to the Smart Parking System project repository! This project aims to sim
 ## 🤝 Contributing
 
 We welcome contributions! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-```
