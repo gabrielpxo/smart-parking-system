@@ -6,7 +6,7 @@ Welcome to the Smart Parking System project repository! This project aims to sim
 
 - **Source Code**: 
   - `Project Source Code.ino` - Arduino code for the smart parking system.
-  - `Project Source Code.c` - Additional C code for functionality.
+  - `Project Source Code.cpp` - Additional C++ code for functionality.
   
 - **Project Report**: 
   - `Project_Report_PT-BR.pdf` - Detailed documentation of the project, including objectives, methodology, and results.
